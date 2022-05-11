@@ -5,3 +5,5 @@ cd curso_git_github/
 touch README_Miguel_Rubio.md
 nano README_Miguel_Rubio.md
 git add README_Miguel_Rubio.md
+git commit -m "commit inicial"
+git push
